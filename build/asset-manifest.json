@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Andrew_dr/static/css/main.886c0869.css",
+    "main.js": "/Andrew_dr/static/js/main.62f931f2.js",
+    "static/media/puck-berserk.gif": "/Andrew_dr/static/media/puck-berserk.28c65764e7ebd1ca3aa0.gif",
+    "index.html": "/Andrew_dr/index.html",
+    "main.886c0869.css.map": "/Andrew_dr/static/css/main.886c0869.css.map",
+    "main.62f931f2.js.map": "/Andrew_dr/static/js/main.62f931f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.886c0869.css",
+    "static/js/main.62f931f2.js"
+  ]
+}
