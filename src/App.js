@@ -4,6 +4,7 @@ import './App.css';
 
 function App() {
   const [step, setStep] = useState(1);
+  
   const [error, setError] = useState(null);
 
   const handleFirstQuestion = (answer) => {
